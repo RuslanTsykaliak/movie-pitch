@@ -1,2 +1,3 @@
 env.js
-env.*
+env.txt
+local.env
